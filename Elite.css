@@ -1,0 +1,118 @@
+button
+
+{
+     color:red;
+     background-color: white;
+     text-align: center;
+
+}
+
+button:hover
+{
+
+color : white;
+background-color: red;
+
+}
+
+table{
+
+border: 5px solid white;
+
+padding: 5px;
+
+border-spacing: 6px;
+
+/* background-color: rgb(112, 185, 221); */
+
+}
+
+.tb{
+
+width: 100%;
+}
+
+td
+{
+border: 1px solid white;
+width: 100%;
+right: 0;
+padding: 0;
+border-radius: 4px;
+ box-sizing: border-box ;
+background-color: rgb(128,176,235);
+
+}
+
+div{
+
+background-color: seagreen;
+
+left: 0;
+
+right: 0;
+
+width: 100%;
+
+padding: 10px;
+}
+.H3{
+
+color: brown;
+
+text-align: center;
+
+padding: 5px;
+
+border: 2px solid white;
+
+border-spacing: 6px;
+
+margin-top: 15px;
+
+width: 97%;
+
+margin-left: auto;
+
+margin-right: auto;
+
+font-family: Georgia, 'Times New Roman', Times, serif;
+background-color: white;
+}
+h3{
+
+
+color: red;
+
+/* background-color: white; */
+}
+
+.img{
+
+background-color: white;
+
+width: 40%;
+
+left: 0;
+
+border:none;
+
+}
+
+body {
+
+padding-right: 50px;
+
+}
+
+.bo{
+
+background-color: white;
+
+border: none;
+
+}
+
+tr{
+color : white;
+}
